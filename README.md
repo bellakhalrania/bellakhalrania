@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm RANIA BENLAKHAL</h1>
-- 📫 How to reach me **bellakhalrania12@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach  **bellakhalrania12@gmail.com**
 <p align="left">
 </p>
 
