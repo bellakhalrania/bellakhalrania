@@ -2,7 +2,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach  **bellakhalrania12@gmail.com**
+- 📫 How to reach  **bellakhalrania12@gmail.com**📫-
 <p align="left">
 </p>
 
