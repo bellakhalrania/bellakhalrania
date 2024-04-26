@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm RANIA BENLAKHAL</h1>
-![Uploading NUX_Octodex.gif…]()
 
+
+![NUX_Octodex](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/3756ae88-17c5-4016-a482-2e6ed81dcadc)
 
 - 📫 How to reach me **bellakhalrania12@gmail.com**
 
