@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm RANIA BENLAKHAL</h1>
 
 
-![NUX_Octodex](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/3756ae88-17c5-4016-a482-2e6ed81dcadc)
+<img src="https://github.com/bellakhalrania/bellakhalrania/assets/149201880/3756ae88-17c5-4016-a482-2e6ed81dcadc" alt="NUX_Octodex" width="300" height="200">
 
 - 📫 How to reach me **bellakhalrania12@gmail.com**
 
