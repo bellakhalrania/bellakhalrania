@@ -7,6 +7,12 @@
 
 - 🌱 I’m currently learning **Laravel& Spring Boot**
 - 📫 How to reach me **bellakhalrania12@gmail.com**
+    <p align="left">
+      <a href="https://github.com/bellakhalrania?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bellakhalrania?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/bellakhalrania?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bellakhalrania?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach  **bellakhalrania12@gmail.com**📫-
