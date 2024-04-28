@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm RANIA BENLAKHAL</h1>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="400" src="![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/17e5960f-1d53-4998-989f-eac31ad1c971)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
