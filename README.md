@@ -4,7 +4,9 @@
 
 
 
-<div align="right" width="400"> [![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/17e5960f-1d53-4998-989f-eac31ad1c971)](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)</div>
+<div align="right" width="400"> 
+
+![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/606a71d6-8b1e-48a7-a9a2-ffb656f524b4)</div>
 
 
 
