@@ -4,10 +4,10 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/17e5960f-1d53-4998-989f-eac31ad1c971)">
+<div align="right" width="400"> [![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/17e5960f-1d53-4998-989f-eac31ad1c971)](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 
 
 
