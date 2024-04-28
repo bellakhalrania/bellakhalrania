@@ -2,11 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm RANIA BENLAKHAL</h1>
 
+<img align="right" width="400" src="https://github.com/bellakhalrania/bellakhalrania/assets/149201880/606a71d6-8b1e-48a7-a9a2-ffb656f524b4" alt="Votre image">
 
-
-<div align="right" width="400"> 
-
-![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/606a71d6-8b1e-48a7-a9a2-ffb656f524b4)</div>
 
 
 
