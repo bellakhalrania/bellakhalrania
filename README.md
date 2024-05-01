@@ -34,7 +34,6 @@
 
 <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bellakhalrania&theme=city_light&hide_border=true" alt="GitHub Streak" />
 
-### 🔝 Top Contributed Repo
-<img  align="center" src="https://github-contributor-stats.vercel.app/api?username=bellakhalrania&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Streak" />
+
 
 
