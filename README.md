@@ -1,4 +1,4 @@
-![322279895-fe054170-c69a-41d2-8e73-f7f239ebc046](https://github.com/bellakhalrania/bellakhalrania/assets/149201880/11fb55a1-7b2b-4747-8306-8e03610e145e)
+
 
 <h1 align="center">Hi 👋, I'm RANIA BENLAKHAL</h1>
 
