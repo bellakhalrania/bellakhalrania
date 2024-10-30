@@ -7,6 +7,7 @@
 - 👩🏻‍💻 Currently, I am studying **Development of Information Systems** at ISET bizerte.
 - 🌱 I’m currently learning **Laravel& Spring Boot**
 - 📫 How to reach me **bellakhalrania12@gmail.com**
+- 📫 Linkedin: **https://www.linkedin.com/in/benlakhal-rania-1543422a7/**
     <p align="left">
       <a href="https://github.com/bellakhalrania?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bellakhalrania?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
